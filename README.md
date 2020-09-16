@@ -10,7 +10,7 @@
 
 ## General info
 Spring Boot project incorporating Spring Secutity, Spring Data JPA,  Hibernate, JSP views (SB Admin 2 Bootstrap theme).
-Allows addind and editing employees, making a weekly shift rota for them. Users can view their rota upon login.
+Allows adding and editing employees, making a weekly shift rota for them. Users can view their rota upon login.
 
 ## Technologies
 * Java 11
